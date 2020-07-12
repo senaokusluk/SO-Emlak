@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="EmlakOtomasyonu.Apartman">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAIIAAQAACAAAAAhQAAIQAAAAAAAAA=</HashCode>
+      <FileName>Apartman.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmlakOtomasyonu.Daire">
+    <Position X="3.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAIIAAAAADAAAAABQAAIUAAAAAAAAA=</HashCode>
+      <FileName>Daire.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmlakOtomasyonu.GayrimenkulForm" Collapsed="true">
+    <Position X="16.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>/3G8o5NNEyRRXDgUDUa1dBBfRQwIMK33IGtFEGxhBDM=</HashCode>
+      <FileName>GayrimenkulForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakOtomasyonu.Konut">
+    <Position X="1" Y="0.5" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAQAAEEoAAIAAgAABAAAAAgAIAAAYAAQIAA=</HashCode>
+      <FileName>Konut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakOtomasyonu.Kullanici">
+    <Position X="13.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAACCAAYkIAAIBAAAAIACABAAAKAAAAgAABgA=</HashCode>
+      <FileName>Kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakOtomasyonu.KullaniciGiris">
+    <Position X="8.5" Y="0.5" Width="2.75" />
+    <Members>
+      <Field Name="btnGiris" Hidden="true" />
+      <Field Name="btnKayit" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox2" Hidden="true" />
+      <Field Name="groupBox3" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label10" Hidden="true" />
+      <Field Name="label11" Hidden="true" />
+      <Field Name="label12" Hidden="true" />
+      <Field Name="label13" Hidden="true" />
+      <Field Name="label14" Hidden="true" />
+      <Field Name="label15" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label7" Hidden="true" />
+      <Field Name="label8" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="rdBtnGayrimenkulGiris" Hidden="true" />
+      <Field Name="rdBtnMusteriGiris" Hidden="true" />
+      <Field Name="rdGayrimenkulKayit" Hidden="true" />
+      <Field Name="rdMusteriKayit" Hidden="true" />
+      <Field Name="tabControl1" Hidden="true" />
+      <Field Name="tabPage1" Hidden="true" />
+      <Field Name="tabPage2" Hidden="true" />
+      <Field Name="txtGGayrimenkulKayitAd" Hidden="true" />
+      <Field Name="txtGKayitAd" Hidden="true" />
+      <Field Name="txtGKayitKullaniciAd" Hidden="true" />
+      <Field Name="txtGKayitSifre" Hidden="true" />
+      <Field Name="txtGKayitSoyad" Hidden="true" />
+      <Field Name="txtGKayitTelNo" Hidden="true" />
+      <Field Name="txtKullaniciAd" Hidden="true" />
+      <Field Name="txtMKayitAd" Hidden="true" />
+      <Field Name="txtMKayitKullaniciAd" Hidden="true" />
+      <Field Name="txtMKayitSifre" Hidden="true" />
+      <Field Name="txtMKayitSoyadi" Hidden="true" />
+      <Field Name="txtMKayitTelNo" Hidden="true" />
+      <Field Name="txtSifre" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>8wCAAAIQACABABUIAACBAQGCAAAICCAAFCQBGCBhBAQ=</HashCode>
+      <FileName>KullaniciGiris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakOtomasyonu.Mustakil">
+    <Position X="7.75" Y="6.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAIIAAAAADAAAAAJQAIIUAAAAAAAAA=</HashCode>
+      <FileName>Mustakil.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EmlakOtomasyonu.MusteriForm">
+    <Position X="16" Y="2" Width="2.5" />
+    <Members>
+      <Field Name="btnMIlanAra" Hidden="true" />
+      <Field Name="btnMusteriTemizle" Hidden="true" />
+      <Field Name="cbxMAramaOdaSalon" Hidden="true" />
+      <Field Name="cbxMAramaTuvaletBanyo" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgwDetayliArama" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="groupBox1" Hidden="true" />
+      <Field Name="groupBox5" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label45" Hidden="true" />
+      <Field Name="label46" Hidden="true" />
+      <Field Name="label48" Hidden="true" />
+      <Field Name="label49" Hidden="true" />
+      <Field Name="label50" Hidden="true" />
+      <Field Name="label51" Hidden="true" />
+      <Field Name="label52" Hidden="true" />
+      <Field Name="label53" Hidden="true" />
+      <Field Name="label54" Hidden="true" />
+      <Field Name="label55" Hidden="true" />
+      <Field Name="pictureBox5" Hidden="true" />
+      <Field Name="rdMApartmanArama" Hidden="true" />
+      <Field Name="rdMAramaKiralik" Hidden="true" />
+      <Field Name="rdMAramaSatilik" Hidden="true" />
+      <Field Name="rdMDaireArama" Hidden="true" />
+      <Field Name="rdMMustakilArama" Hidden="true" />
+      <Field Name="txtMAramaBalkon" Hidden="true" />
+      <Field Name="txtMAramaFiyat" Hidden="true" />
+      <Field Name="txtMAramaKat" Hidden="true" />
+      <Field Name="txtMAramaMetrekare" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>90AAkQAAgCABGAgAAASSRIBCAAAIAIAAICAAAEAAEDA=</HashCode>
+      <FileName>MusteriForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmlakOtomasyonu.Program">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EmlakOtomasyonu.IKonut">
+    <Position X="8.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IKonut.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
